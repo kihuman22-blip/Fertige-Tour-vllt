@@ -1,0 +1,160 @@
+{
+  "id": "1772301091670-kxqzxai8e",
+  "name": "My Virtual Tour",
+  "scenes": [
+    {
+      "id": "1772301125392-0yp8gwvup",
+      "name": "Drinnen",
+      "hotspots": [
+        {
+          "id": "1772301697044-bbio4pjt7",
+          "icon": "arrow",
+          "type": "info",
+          "color": "#4db8a4",
+          "title": "Raus gehen",
+          "position": {
+            "yaw": 268.3517632391747,
+            "pitch": -12.097710987418107
+          },
+          "targetSceneId": "1772301152511-34wzohpor"
+        },
+        {
+          "id": "1772301784226-wm13p0mej",
+          "icon": "info",
+          "type": "info",
+          "color": "#f59e0b",
+          "title": "Information",
+          "position": {
+            "yaw": 21.258802173536882,
+            "pitch": -14.34911966154103
+          },
+          "description": "🍽️ Tisch reservieren im La Piazza\nHier Klicken: ( https://widget.thefork.com/de/52f4e596-0c1b-4e16-b27b-76ed8dd85680?fbclid=PAZXh0bgNhZW0CMTEAAad2ozTRXHlXnZe3rbpp07-EHCH-Ysms3OwbdWCX_YomkWhVvDTWWUtRyFv8Bw_aem_sypDhJhDdpolCRT2bJKBaQ&utm_source=l.instagram.com&step=date )\n\nSichern Sie sich Ihren Lieblingsplatz ganz bequem:\n\n\n🌐 Online reservieren:\nÜber unsere Website – schnell und unkompliziert rund um die Uhr.\n\n📞 Telefonische Reservierung:\n0471 93141450\n\nWir freuen uns auf Ihren Besuch! 🇮🇹"
+        }
+      ],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301122492-lygrq4.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301128367-35by6r7ud",
+      "name": "Essen3rein",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301125496-bcr5o1.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301131012-5noeqm23t",
+      "name": "EssenEnde",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301128469-q7768r.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301133604-prwqr3j59",
+      "name": "EssenHinten",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301131112-od78al.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301136640-h7spj9hw0",
+      "name": "Essen2",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301133709-hy8ivy.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301139441-az4lme0n6",
+      "name": "Essen2rein",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301136748-jhuul0.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301142680-zely16ihc",
+      "name": "Essen3",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301139896-wjmpev.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301146100-lbkixa6a9",
+      "name": "Essen1",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301143132-7rez96.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301149130-lyutgqi3a",
+      "name": "Hinten",
+      "hotspots": [],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301146755-t0f1my.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    },
+    {
+      "id": "1772301152511-34wzohpor",
+      "name": "Eingang",
+      "hotspots": [
+        {
+          "id": "1772301618589-kzx9iiued",
+          "icon": "arrow",
+          "type": "scene-link",
+          "color": "#4db8a4",
+          "title": "Go to Drinnen",
+          "position": {
+            "yaw": -86.94900566393366,
+            "pitch": -37.74999999999997
+          },
+          "description": "Rein gehen\n",
+          "targetSceneId": "1772301125392-0yp8gwvup"
+        }
+      ],
+      "imageUrl": "https://yglzonhthetmprslfbww.supabase.co/storage/v1/object/public/tour-images/33e523b4-6de8-4a8c-8aae-742eab8117d5/scenes/1772301149703-by6nxv.jpg",
+      "initialViewDirection": {
+        "yaw": 0,
+        "pitch": 0
+      }
+    }
+  ],
+  "settings": {
+    "autoRotate": false,
+    "defaultFov": 75,
+    "controlType": "drag",
+    "showCompass": true,
+    "showMinimap": true,
+    "showSceneList": true,
+    "autoRotateSpeed": 0.5,
+    "backgroundColor": "#0a0a0a",
+    "transitionDuration": 800
+  },
+  "createdAt": "2026-02-28T17:51:31.670Z",
+  "updatedAt": "2026-02-28T18:03:51.697Z",
+  "description": "An immersive 360 experience",
+  "startSceneId": "1772301125392-0yp8gwvup"
+}
